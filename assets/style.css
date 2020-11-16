@@ -1,6 +1,7 @@
 body {
+    /* incase background image decides to not work again */
     background-color: grey;
-    background-image: url(https://codyyuill.github.io/BootstrapPortfolio/assets/bg-seamless.jpg);
+    background-image: url(bg-seamless.jpg);
     font-family: 'Expletus Sans', cursive;
 }
 
