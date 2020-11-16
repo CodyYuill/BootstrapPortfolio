@@ -1,5 +1,6 @@
 body {
-    background-image: url(/assets/bg-seamless.jpg);
+    /* background-image: url(/assets/bg-seamless.jpg); */
+    background-color: grey;
     font-family: 'Expletus Sans', cursive;
 }
 
@@ -11,12 +12,14 @@ body {
     font-size: 25px;
 }
 
-.aboutBlock{
+.mainBlock{
     margin-top: 20px;
+}
+.mainBlock p{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
 }
 
 .aboutBlock p{
     text-align: center;
-    font-family: 'Oxygen', sans-serif;
-    font-size: 20px;
 }
