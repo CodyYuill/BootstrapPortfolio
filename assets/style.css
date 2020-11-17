@@ -24,3 +24,10 @@ body {
 .aboutBlock p{
     text-align: center;
 }
+
+.portfolioPics{
+    /* max-width: 300px;
+    max-height: 300px; */
+    margin: auto;
+    margin-bottom: 20px;
+}
