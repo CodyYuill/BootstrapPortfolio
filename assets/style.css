@@ -31,3 +31,8 @@ body {
     margin: auto;
     margin-bottom: 20px;
 }
+
+footer{
+    font-family: 'Oxygen', sans-serif;
+    outline: black;
+}
