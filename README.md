@@ -1,1 +1,1 @@
-# BootstrapPortfolio
+This a personel portfolio webpage created with Bootstrap for various responsive CSS and JS elements
